@@ -22,7 +22,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+@client = Tatpetfinder::Client.new(client_id: client_id, client_secret: client_secret)
+@client.pet_by_id("56573024")
+@client.all_pets
+@client.pet_types
+@client.pet_by_type("bird")
+
+@token_client = Tatpetfinder::TokenAPI.new(client_id: client_id, client_secret: client_secret)
+@token_client.token
 
 ## Development
 
