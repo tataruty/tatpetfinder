@@ -23,10 +23,12 @@ Or install it yourself as:
 ## Usage
 
 @client = Tatpetfinder::Client.new(client_id: client_id, client_secret: client_secret)
-@client.pet_by_id("56573024")
+where count_per_page is optional, if don't set it it will be 100 by default
+
+@client.pet_by_id("56611771")
 @client.all_pets
 @client.pet_types
-@client.pet_by_type("bird")
+@client.pet_by_type("Barnyard")
 
 @token_client = Tatpetfinder::TokenAPI.new(client_id: client_id, client_secret: client_secret)
 @token_client.token
