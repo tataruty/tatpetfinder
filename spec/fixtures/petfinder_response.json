@@ -1,0 +1,249 @@
+{
+    "animals": [
+        {
+            "id": 56706296,
+            "organization_id": "PA105",
+            "url": "https://www.petfinder.com/horse/dallas-56706296/pa/quakertown/last-chance-ranch-animal-rescue-pa105/?referrer_id=25126178-e119-4ffa-81c9-f10028e9ad9e",
+            "type": "Horse",
+            "species": "Horse",
+            "breeds": {
+                "primary": "Quarterhorse",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Dallas",
+            "description": "Dallas is a 24 year old Quarter Horse gelding. He is rideable, but due to age-related arthritis and some navicular...",
+            "organization_animal_id": "14504",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/1/?bust=1660839466&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/1/?bust=1660839466&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/1/?bust=1660839466&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/1/?bust=1660839466"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/2/?bust=1660839483&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/2/?bust=1660839483&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/2/?bust=1660839483&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/2/?bust=1660839483"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/1/?bust=1660839466&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/1/?bust=1660839466&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/1/?bust=1660839466&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706296/1/?bust=1660839466"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-08-18T16:02:42+0000",
+            "published_at": "2022-08-18T16:02:42+0000",
+            "distance": null,
+            "contact": {
+                "email": "pets@lastchanceranch.org",
+                "phone": "(215) 538-2510",
+                "address": {
+                    "address1": "9 Beck Rd.",
+                    "address2": null,
+                    "city": "Quakertown",
+                    "state": "PA",
+                    "postcode": "18951",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/56706296"
+                },
+                "type": {
+                    "href": "/v2/types/horse"
+                },
+                "organization": {
+                    "href": "/v2/organizations/pa105"
+                }
+            }
+        },
+        {
+            "id": 56706297,
+            "organization_id": "PA105",
+            "url": "https://www.petfinder.com/horse/darien-56706297/pa/quakertown/last-chance-ranch-animal-rescue-pa105/?referrer_id=25126178-e119-4ffa-81c9-f10028e9ad9e",
+            "type": "Horse",
+            "species": "Horse",
+            "breeds": {
+                "primary": "Morgan",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Darien",
+            "description": "Darien was found running stray through Philadelphia by the Animal Care &amp;amp; Control Team (ACCT). He quickly found his was...",
+            "organization_animal_id": "14505",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706297/1/?bust=1660839561&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706297/1/?bust=1660839561&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706297/1/?bust=1660839561&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706297/1/?bust=1660839561"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706297/1/?bust=1660839561&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706297/1/?bust=1660839561&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706297/1/?bust=1660839561&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56706297/1/?bust=1660839561"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-08-18T16:02:42+0000",
+            "published_at": "2022-08-18T16:02:42+0000",
+            "distance": null,
+            "contact": {
+                "email": "pets@lastchanceranch.org",
+                "phone": "(215) 538-2510",
+                "address": {
+                    "address1": "9 Beck Rd.",
+                    "address2": null,
+                    "city": "Quakertown",
+                    "state": "PA",
+                    "postcode": "18951",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/56706297"
+                },
+                "type": {
+                    "href": "/v2/types/horse"
+                },
+                "organization": {
+                    "href": "/v2/organizations/pa105"
+                }
+            }
+        },
+        {
+            "id": 56706298,
+            "organization_id": "PA105",
+            "url": "https://www.petfinder.com/horse/nickel-56706298/pa/quakertown/last-chance-ranch-animal-rescue-pa105/?referrer_id=25126178-e119-4ffa-81c9-f10028e9ad9e",
+            "type": "Horse",
+            "species": "Horse",
+            "breeds": {
+                "primary": "Quarterhorse",
+                "secondary": "Percheron",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Nickel",
+            "description": "Nickel is a large bay mare that is a Tennessee Walker cross. She is about 20 years old and is...",
+            "organization_animal_id": "14507",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-08-18T16:02:42+0000",
+            "published_at": "2022-08-18T16:02:42+0000",
+            "distance": null,
+            "contact": {
+                "email": "pets@lastchanceranch.org",
+                "phone": "(215) 538-2510",
+                "address": {
+                    "address1": "9 Beck Rd.",
+                    "address2": null,
+                    "city": "Quakertown",
+                    "state": "PA",
+                    "postcode": "18951",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/56706298"
+                },
+                "type": {
+                    "href": "/v2/types/horse"
+                },
+                "organization": {
+                    "href": "/v2/organizations/pa105"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "count_per_page": 3,
+        "total_count": 866,
+        "current_page": 1,
+        "total_pages": 289,
+        "_links": {
+            "next": {
+                "href": "/v2/animals?limit=3&type=Horse&page=2"
+            }
+        }
+    }
+}

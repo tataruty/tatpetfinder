@@ -36,7 +36,7 @@ module Tatpetfinder
                 data = connection.get("/v2/animals/") do |req|
                     req.params['limit'] = @count_per_page
                 end
-                return collect_data_from_array(data.body['animals'])
+                return !data.body.nil? ? collect_data_from_array(data.body['animals']) : []
             else 
                 data = connection.get("/v2/animals/#{id}").body['animal']
                 return collect_data_from_single(data) unless data.empty?
@@ -84,7 +84,9 @@ module Tatpetfinder
         end
 
         def collect_data_from_single(animal)
-            animal.slice("species", "breeds", "colors", "age", "gender", "size", "coat", "attributes", "environment", "tags", "name", "description")
+            obj = animal.slice("type", "species", "breeds", "colors", "age", "gender", "size", "coat", "attributes", "environment", "tags", "name", "description")
+            obj['pet_finder_id'] = animal['id']
+            obj
         end
     end 
 end

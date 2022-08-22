@@ -28,6 +28,7 @@ puts "Pet by TYPE:"
 puts @client.pet_by_type("Barnyard")
 
 
+#puts JSON.pretty_generate(@client.pet_by_id("56611771"))
 
 # @client2 = Tatpetfinder::TokenAPI.new(client_id: client_id, client_secret: client_secret)
 # puts @client2.token
